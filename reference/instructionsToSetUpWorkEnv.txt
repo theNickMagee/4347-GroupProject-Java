@@ -1,0 +1,8 @@
+Instructions to set up work environment:
+
+1. Use my MySQLWorkbench to connect to remote SQL server with the following information:
+    Endpoint: project-4347-db.cblupithxisz.us-east-2.rds.amazonaws.com
+    Username: admin
+    Password: 4347Password!
+
+2.  If for some reason the database is empty or not created, use the appropriate .sql files and their queries in /reference to create and populate the database.
