@@ -40,6 +40,7 @@ public class Project4347Phase4 {
             System.out.println("1. Insert Player on Team.");
             System.out.println("2. Insert Staff Member on Team.");
             System.out.println("3. Insert Game Event.");
+	    System.out.println("4. Edit Player Status.");
             // INSERT MORE OPTIONS HERE
             System.out.println("6. Exit.");
             System.out.println("Enter a number: ");
