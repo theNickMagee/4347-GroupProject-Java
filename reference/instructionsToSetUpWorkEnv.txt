@@ -6,3 +6,6 @@ Instructions to set up work environment:
     Password: 4347Password!
 
 2.  If for some reason the database is empty or not created, use the appropriate .sql files and their queries in /reference to create and populate the database.
+
+
+3.  Add the mysql-connector.jar to Referenced libraries
